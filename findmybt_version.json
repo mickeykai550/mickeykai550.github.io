@@ -1,5 +1,5 @@
 {
   "min_supported_version": 6,
-  "latest_version": 7,
+  "latest_version": 9,
   "message": "請更新至 FakeGo 7 版，修正模擬路線錯誤。"
 }
